@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Primary SEO Meta Tags -->
+    <title>Rhode Island Property Management | Providence Property Management Services - Lenox Management</title>
+    <meta name="description" content="Professional property management services in Rhode Island and Providence. Expert residential and commercial property management in RI. Trusted Providence property managers since inception.">
+    <meta name="keywords" content="Rhode Island property management, Providence property management, RI property managers, Providence RI property management, property management Rhode Island, residential property management Providence, commercial property management RI">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://lenoxmanagement.com/">
+    
+    <!-- Open Graph / Facebook Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://lenoxmanagement.com/">
+    <meta property="og:title" content="Rhode Island Property Management | Providence Property Management - Lenox Management">
+    <meta property="og:description" content="Professional property management services in Rhode Island and Providence. Expert residential and commercial property management in RI.">
+    <meta property="og:image" content="https://lenoxmanagement.com/images/lenox-property-management-ri.jpg">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://lenoxmanagement.com/">
+    <meta property="twitter:title" content="Rhode Island Property Management | Providence Property Management">
+    <meta name="twitter:description" content="Professional property management services in Rhode Island and Providence. Expert residential and commercial property management in RI.">
+    <meta name="twitter:image" content="https://lenoxmanagement.com/images/lenox-property-management-ri.jpg">
+    
+    <!-- Geo Meta Tags -->
+    <meta name="geo.region" content="US-RI">
+    <meta name="geo.placename" content="Providence, Rhode Island">
+    <meta name="geo.position" content="41.8240;-71.4128">
+    <meta name="ICBM" content="41.8240, -71.4128">
+    
+    <!-- Robots -->
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Structured Data - LocalBusiness Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "RealEstateAgent",
+      "name": "Lenox Management",
+      "image": "https://lenoxmanagement.com/images/lenox-logo.jpg",
+      "description": "Professional property management services in Rhode Island and Providence",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "",
+        "addressLocality": "Providence",
+        "addressRegion": "RI",
+        "postalCode": "",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 41.8240,
+        "longitude": -71.4128
+      },
+      "url": "https://lenoxmanagement.com",
+      "telephone": "",
+      "priceRange": "$$",
+      "areaServed": [
+        {
+          "@type": "State",
+          "name": "Rhode Island"
+        },
+        {
+          "@type": "City",
+          "name": "Providence"
+        }
+      ],
+      "serviceType": ["Property Management", "Residential Property Management", "Commercial Property Management", "Tenant Placement", "Property Maintenance"]
+    }
+    </script>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <nav>
+            <div class="logo">
+                <h1>Lenox Management</h1>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <main>
+        <section id="home" class="hero">
+            <div class="hero-content">
+                <h1>Premier Rhode Island Property Management Services</h1>
+                <h2>Professional Property Management in Providence and Throughout Rhode Island</h2>
+                <p>Trusted property management experts serving Providence, Rhode Island, and surrounding areas. We specialize in residential and commercial property management with a focus on maximizing your investment returns.</p>
+                <a href="#contact" class="cta-button">Get Free Consultation</a>
+            </div>
+        </section>
+
+        <!-- Services Section -->
+        <section id="services" class="services">
+            <div class="container">
+                <h2>Rhode Island Property Management Services</h2>
+                <p class="section-intro">Comprehensive property management solutions for Providence and all of Rhode Island</p>
+                
+                <div class="service-grid">
+                    <article class="service-card">
+                        <h3>Residential Property Management in Providence RI</h3>
+                        <p>Full-service residential property management for single-family homes, multi-family properties, and apartment buildings throughout Providence and Rhode Island. We handle tenant screening, rent collection, maintenance, and all aspects of property management.</p>
+                    </article>
+                    
+                    <article class="service-card">
+                        <h3>Commercial Property Management Rhode Island</h3>
+                        <p>Expert commercial property management services for office buildings, retail spaces, and mixed-use properties across Rhode Island. Our team ensures your commercial properties operate efficiently and profitably.</p>
+                    </article>
+                    
+                    <article class="service-card">
+                        <h3>Tenant Placement & Screening</h3>
+                        <p>Thorough tenant screening and placement services for Rhode Island property owners. We find qualified, reliable tenants for your Providence and RI properties using comprehensive background checks and verification.</p>
+                    </article>
+                    
+                    <article class="service-card">
+                        <h3>Property Maintenance & Repairs</h3>
+                        <p>24/7 property maintenance and repair coordination for all your Rhode Island properties. Our network of trusted contractors ensures quick, quality repairs throughout Providence and surrounding areas.</p>
+                    </article>
+                    
+                    <article class="service-card">
+                        <h3>Rent Collection & Financial Reporting</h3>
+                        <p>Streamlined rent collection and detailed financial reporting for Rhode Island property owners. Stay informed about your Providence property investments with transparent, regular financial updates.</p>
+                    </article>
+                    
+                    <article class="service-card">
+                        <h3>Property Marketing & Leasing</h3>
+                        <p>Strategic property marketing and leasing services to minimize vacancy rates for your Rhode Island properties. We leverage local Providence market knowledge to attract quality tenants quickly.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about">
+            <div class="container">
+                <h2>About Lenox Management - Your Rhode Island Property Management Experts</h2>
+                <div class="about-content">
+                    <div class="about-text">
+                        <h3>Why Choose Our Providence Property Management Services?</h3>
+                        <p>Lenox Management is a premier property management company serving Providence, Rhode Island, and the greater RI area. Our deep understanding of the Rhode Island real estate market and local property management regulations makes us the ideal choice for property owners throughout the state.</p>
+                        
+                        <p>We specialize in both residential and commercial property management in Providence and across Rhode Island, offering comprehensive services that protect your investment and maximize returns. Our team of experienced property managers understands the unique challenges of managing properties in Rhode Island's competitive rental market.</p>
+                        
+                        <h3>Local Rhode Island Property Management Expertise</h3>
+                        <p>With extensive experience in the Providence and Rhode Island property markets, we provide:</p>
+                        <ul>
+                            <li>In-depth knowledge of Rhode Island landlord-tenant laws</li>
+                            <li>Understanding of Providence and RI neighborhood dynamics</li>
+                            <li>Established relationships with local contractors and service providers</li>
+                            <li>Proven track record of successful property management in Rhode Island</li>
+                            <li>Commitment to maximizing property values throughout Providence and RI</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Service Areas -->
+        <section class="service-areas">
+            <div class="container">
+                <h2>Serving Property Owners Throughout Rhode Island</h2>
+                <p>While we're proud to serve as Providence's trusted property management company, our services extend throughout Rhode Island including:</p>
+                <div class="areas-grid">
+                    <div class="area">Providence</div>
+                    <div class="area">Warwick</div>
+                    <div class="area">Cranston</div>
+                    <div class="area">Pawtucket</div>
+                    <div class="area">East Providence</div>
+                    <div class="area">Woonsocket</div>
+                    <div class="area">Newport</div>
+                    <div class="area">Central Falls</div>
+                    <div class="area">And all of Rhode Island</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="contact">
+            <div class="container">
+                <h2>Contact Lenox Management - Rhode Island Property Management</h2>
+                <p>Ready to experience professional property management in Providence and Rhode Island? Contact us today for a free consultation.</p>
+                
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <h3>Phone</h3>
+                        <p>Call us to discuss your Rhode Island property management needs</p>
+                    </div>
+                    <div class="contact-item">
+                        <h3>Email</h3>
+                        <p>info@lenoxmanagement.com</p>
+                    </div>
+                    <div class="contact-item">
+                        <h3>Service Area</h3>
+                        <p>Providence, RI and all of Rhode Island</p>
+                    </div>
+                </div>
+                
+                <form class="contact-form">
+                    <h3>Request Your Free Property Management Consultation</h3>
+                    <input type="text" name="name" placeholder="Your Name" required>
+                    <input type="email" name="email" placeholder="Your Email" required>
+                    <input type="tel" name="phone" placeholder="Phone Number">
+                    <input type="text" name="property-address" placeholder="Property Address in Rhode Island">
+                    <select name="property-type">
+                        <option value="">Select Property Type</option>
+                        <option value="residential">Residential Property</option>
+                        <option value="commercial">Commercial Property</option>
+                        <option value="multi-family">Multi-Family Property</option>
+                    </select>
+                    <textarea name="message" rows="5" placeholder="Tell us about your Rhode Island property management needs"></textarea>
+                    <button type="submit">Get Free Consultation</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Lenox Management</h3>
+                    <p>Professional Property Management Services in Providence and Rhode Island</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Services</h4>
+                    <ul>
+                        <li>Rhode Island Property Management</li>
+                        <li>Providence Property Management</li>
+                        <li>Residential Management</li>
+                        <li>Commercial Management</li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Service Areas</h4>
+                    <ul>
+                        <li>Providence, RI</li>
+                        <li>All of Rhode Island</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Lenox Management. Professional Property Management in Rhode Island and Providence.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
