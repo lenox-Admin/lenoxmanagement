@@ -101,12 +101,22 @@ After deploying your website:
 ```
 lenoxmanagement/
 ├── index.html          # Main homepage with SEO optimization
+├── wordpress           # WordPress-compatible page with SEO optimization
 ├── styles.css          # Professional styling
 ├── robots.txt          # Search engine crawler instructions
-├── sitemap.xml         # XML sitemap for search engines
+├── sitemap.xml         # XML sitemap for search engines (includes both pages)
+├── .htaccess           # Apache configuration for proper MIME types
 ├── .gitignore          # Git ignore rules
 └── README.md           # This file
 ```
+
+### Multiple Pages for SEO
+
+Both `index.html` and `wordpress` contain identical SEO optimizations:
+- Same meta tags, structured data, and content
+- Allows flexibility for different deployment scenarios
+- WordPress file can be integrated into WordPress themes or used standalone
+- Both pages are included in sitemap.xml for search engine indexing
 
 ## Target Keywords
 
