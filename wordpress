@@ -10,11 +10,11 @@
     <meta name="keywords" content="Rhode Island property management, Providence property management, RI property managers, Providence RI property management, property management Rhode Island, residential property management Providence, commercial property management RI">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://lenoxmanagement.com/">
+    <link rel="canonical" href="https://lenoxmanagement.com/wordpress">
     
     <!-- Open Graph / Facebook Meta Tags -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://lenoxmanagement.com/">
+    <meta property="og:url" content="https://lenoxmanagement.com/wordpress">
     <meta property="og:title" content="Rhode Island Property Management | Providence Property Management - Lenox Management">
     <meta property="og:description" content="Professional property management services in Rhode Island and Providence. Expert residential and commercial property management in RI.">
     <meta property="og:image" content="https://lenoxmanagement.com/images/lenox-property-management-ri.jpg">
@@ -22,7 +22,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://lenoxmanagement.com/">
+    <meta name="twitter:url" content="https://lenoxmanagement.com/wordpress">
     <meta property="twitter:title" content="Rhode Island Property Management | Providence Property Management">
     <meta name="twitter:description" content="Professional property management services in Rhode Island and Providence. Expert residential and commercial property management in RI.">
     <meta name="twitter:image" content="https://lenoxmanagement.com/images/lenox-property-management-ri.jpg">
@@ -52,10 +52,8 @@
       "description": "Professional property management services in Rhode Island and Providence",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "",
         "addressLocality": "Providence",
         "addressRegion": "RI",
-        "postalCode": "",
         "addressCountry": "US"
       },
       "geo": {
@@ -64,7 +62,6 @@
         "longitude": -71.4128
       },
       "url": "https://lenoxmanagement.com",
-      "telephone": "",
       "priceRange": "$$",
       "areaServed": [
         {
