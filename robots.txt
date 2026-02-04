@@ -1,0 +1,22 @@
+# robots.txt for www.lenoxmanagement.com
+# Allow all search engines to crawl the site
+
+User-agent: *
+Allow: /
+
+# Disallow crawling of admin areas, login pages, and private directories
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wp-includes/
+Disallow: /cgi-bin/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /*.php$
+
+# Allow crawling of WordPress CSS and JS files for rendering
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-includes/*.css
+Allow: /wp-includes/*.js
+
+# Sitemap location
+Sitemap: https://www.lenoxmanagement.com/sitemap.xml
